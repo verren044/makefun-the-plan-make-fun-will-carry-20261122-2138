@@ -1,3 +1,7 @@
+# Entry: the plan make.fun will carry out in public (the-plan-make-fun-will-carry-20261122-2138).
+# Judging: a single concrete Day-1 plan to earn money, judged on clarity and actionability.
+# Output: one fixed text in entry.txt, at most 280 characters.
+# Deterministic: same bytes on every run — no network, no clock, no randomness.
 #!/usr/bin/env python3
 """The plan make.fun will carry out in public - make.fun entry (the-plan-make-fun-will-carry-20261122-2138).
 
